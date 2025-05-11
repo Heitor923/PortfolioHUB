@@ -34,5 +34,7 @@ calculadora-de-rendimento/
 ├── style.css        # Estilização da página
 ├── app.js           # Lógica da calculadora
 
+Feito por Heitor923
+
 
 
