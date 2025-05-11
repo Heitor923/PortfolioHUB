@@ -5,7 +5,7 @@ Bem-vindo ao meu portfólio! Este repositório contém projetos acadêmicos e pe
 ## Estrutura do repositório
 
 - **projetos-academicos**: Projetos realizados durante o curso.
-- **projetos-pessoais**: Projetos desenvolvidos por iniciativa própria.
+- **projetos-pessoais**: Projetos desenvolvidos por iniciativa própria e cursos alura.
 - **docs**: Documentação dos projetos e guias de uso.
 - **profissional**: currículo e certificados.
 
