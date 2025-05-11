@@ -7,6 +7,8 @@ Bem-vindo ao meu portfólio! Este repositório contém projetos acadêmicos e pe
 - **projetos-academicos**: Projetos realizados durante o curso.
 - **projetos-pessoais**: Projetos desenvolvidos por iniciativa própria.
 - **docs**: Documentação dos projetos e guias de uso.
+- **profissional**: currículo e certificados.
+
 
 ## Como acessar os projetos?
 
