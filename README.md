@@ -12,4 +12,4 @@ Bem-vindo ao meu portfólio! Este repositório contém projetos acadêmicos e pe
 
 ## Como acessar os projetos?
 
-Cada pasta contém um README.md com informações sobre os projetos e como executá-los. 
+Na pasta 'docs' contém um README.md com informações sobre os projetos e como executá-los. 
